@@ -1,0 +1,34 @@
+{"data":[
+	{
+		"id":1,
+		"nama_jalan":"Jln. Keadilan Raya",
+		"latitude":"-6.386616",
+		"longitude":"106.852294",
+		"created_at":"2020-07-05T08:50:56.000000Z",
+		"updated_at":"2020-07-05T08:50:56.000000Z"
+	},
+	{
+		"id":2,
+		"nama_jalan":"Jln. H Dimun Raya",
+		"latitude":"-6.413173",
+		"longitude":"106.849257",
+		"created_at":"2020-07-05T08:52:31.000000Z",
+		"updated_at":"2020-07-05T08:52:31.000000Z"
+	},
+	{
+		"id":3,
+		"nama_jalan":"Jln. Tole Iskandar Raya",
+		"latitude":"-6.4079995950357045",
+		"longitude":"106.85757189593721",
+		"created_at":"2020-07-05T18:43:07.000000Z",
+		"updated_at":"2020-07-05T18:43:07.000000Z"
+	},
+	{
+		"id":4,
+		"nama_jalan":"Jln. Raya Bogor",
+		"latitude":"-6.415049954601841",
+		"longitude":"106.85938678195294",
+		"created_at":"2020-07-05T19:09:31.000000Z",
+		"updated_at":"2020-07-05T19:09:31.000000Z"
+	}
+]}
